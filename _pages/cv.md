@@ -11,22 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering (honors degree), Universidad Nacional de Colombia (Sede Bogotá), 2016
+* M.Eng. (c) in Industrial Automation, Universidad Nacional de Colombia, (expected graduation 2020)
+* M.Sc. (c) in Electrical Engineering, Rensselaer Polytechnic Institute, 2021
+* Ph.D. in Electrical Engineering, Rensselaer Polytechnic Institute, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* May-November 2015: Intern in Control & Data Services at Rolls-Royce Deutschland Ltd & Co KG (Berlin, Germany)
+  *
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* February 2017 - November 2018: Teaching Assistant at Universidad Nacional de Colombia (Bogotá D.C., Colombia)
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+* Summer 2020: Extern at IBM (Artificial Intelligence Research Collaboration)
+  *
+  *
+  * Supervisor: Bhanu Vinzamuri
+
 Skills
 ======
 * Skill 1
@@ -41,19 +47,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
