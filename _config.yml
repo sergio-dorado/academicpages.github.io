@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sergio A. Dorado-Rojas Website"
 title_separator          : "-"
 name                     : &name "Sergio A. Dorado-Rojas"
 description              : &description "personal description"
@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Student at Rensselaer Polytechnic Institute"
   location         : "Troy, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FrA2f3wAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
