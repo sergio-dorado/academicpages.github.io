@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Home"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a Ph.D. student at Rensselaer Polytechnic Institute. Currently, I am working with [ALSETLab](https://alsetlab.github.io/) under the supervision of Dr. Luigi Vanfretti. My research leverages Controls and Machine Learning applications in Power Systems.
 
 Bio
 ====================
