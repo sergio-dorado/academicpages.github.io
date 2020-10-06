@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bio
-====================
-
-Manuel Ponce de León awarded Electrical Engineer with an honors degree. Currently, M.Eng. Student in Industrial Automation at Universidad Nacional de Colombia, M.Sc. and Ph.D. Student in Electrical Engineering at Rensselaer Polytechnic Institute. DAAD-Alumni from program "Jungingenieure Kolumbien" (exchange at Technische Universität München in Germany). Former intern at the Control and Data Services department by Rolls-Royce Deutschland Ltd & Co KG.
+Manuel Ponce de León awarded Electrical Engineer with an honors degree, and M.Eng. Student in Industrial Automation at Universidad Nacional de Colombia (graduation 2021). Currently, M.Sc. and Ph.D. Student in Electrical Engineering at Rensselaer Polytechnic Institute with [ALSETLAB](https://alsetlab.com) under the supervision of Dr. Luigi Vanfretti. DAAD-Alumni from program "Jungingenieure Kolumbien" (exchange at Technische Universität München in Germany). Former intern at the Control and Data Services department at Rolls-Royce Deutschland Ltd & Co KG, and extern at IBM. 
 
 Awards and Distinctions
 =====================
