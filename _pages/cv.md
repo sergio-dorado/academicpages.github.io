@@ -18,20 +18,21 @@ Education
 
 Work experience
 ======
-* May-November 2015: Intern in Control & Data Services at Rolls-Royce Deutschland Ltd & Co KG (Berlin, Germany)
-  *
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* February 2017 - November 2018: Teaching Assistant at Universidad Nacional de Colombia (Bogotá D.C., Colombia)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
 * Summer 2020: Extern at IBM (Artificial Intelligence Research Collaboration)
   *
   *
   * Supervisor: Bhanu Vinzamuri
+  
+* February 2017 - November 2018: Teaching Assistant at Universidad Nacional de Colombia (Bogotá D.C., Colombia)
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* May 2015- November 2015: Intern in Control & Data Services at Rolls-Royce Deutschland Ltd & Co KG (Berlin, Germany)
+  *
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
 Skills
 ======
