@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Sergio A. Dorado-Rojas"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. Student at Rensselaer Polytechnic Institute"
   location         : "Troy, NY"
+  cv               : "[Test](google.com)"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FrA2f3wAAAAJ"
-  email            :
+  email            : "sergio.dorado.rojas@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
