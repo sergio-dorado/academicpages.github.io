@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Ph.D. Student at Rensselaer Polytechnic Institute"
   location         : "Troy, NY"
-  cv               : "[Test](google.com)"
+  cv               : "https://sergio.dorado-github.io/files/SergioDorado_cv.pdf"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FrA2f3wAAAAJ"
