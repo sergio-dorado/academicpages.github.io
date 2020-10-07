@@ -10,7 +10,7 @@ redirect_from:
 
 Manuel Ponce de León awarded Electrical Engineer with an honors degree, and M.Eng. Student in Industrial Automation at [Universidad Nacional de Colombia](https://unal.edu.co). Currently, M.Sc. and Ph.D. Student in Electrical Engineering at [Rensselaer Polytechnic Institute](https://rpi.edu) with [ALSETLAB](https://alsetlab.com) under the supervision of Dr. Luigi Vanfretti. DAAD-Alumni from program Young Engineers (*Jungingenieure Kolumbien*) at the [Technical University of Munich](https://www.tum.de/) in Germany. Former intern at the Control and Data Services department at [Rolls-Royce Deutschland Ltd & Co KG](https://www.rolls-royce.com/country-sites/deutschland.aspx), and extern at [IBM](https://www.ibm.com/us-en/).
 
-#### Research Interests
+### Research Interests
 * Power System Dynamics and Controls
 * Control of Power Converters
 * Machine Learning applications in Power Grids
