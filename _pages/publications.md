@@ -8,7 +8,7 @@ author_profile: true
 Conference Papers
 =====================
 
-**[C4] _Orthogonal Laguerre Recurrent Neural Networks_** \
+[**[C4] _Orthogonal Laguerre Recurrent Neural Networks_**](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_85.pdf) \
 Sergio A. Dorado-Rojas, Bhanu Vinzamuri, Luigi Vanfretti \
 Machine Learning and the Physical Sciences \
 Workshop at the 34th Conference on Neural Information Processing Systems (NeurIPS) \
